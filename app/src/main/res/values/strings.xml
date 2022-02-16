@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Куди ходить кіт?</string>
+    <string name="about_text">У лукоморья дуб зелёный;\n
+    Златая цепь на дубе том:\n
+    И днём и ночью <b>кот учёный</b>\n
+    Всё ходит по цепи кругом;\n
+    Идёт <b>направо</b> - песнь заводит,\n
+    <b>Налево</b> - сказку говорит.</string>
+    <string name="about_title">Про програму</string>
+    <string name="birthday"><b><i>З Днем народження!!!</i></b></string>
+    <string name="click">Натисни на мене!</string>
+    <string name="smile">Усміхнись:)</string>
+    <string name="birthday_title">Вітаю!</string>
+</resources>
